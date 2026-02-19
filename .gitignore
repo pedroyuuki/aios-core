@@ -363,3 +363,5 @@ scripts/glue/
 .claude/setup/
 docs/guides/aios-workflows/
 docs/guides/glue-script-guide.md
+
+claude.exe
